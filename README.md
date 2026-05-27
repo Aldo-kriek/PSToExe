@@ -1,6 +1,13 @@
 <img width="683" height="487" alt="image" src="https://github.com/user-attachments/assets/29e6aa01-a90f-47c4-a2d5-a91f9b11c258" />
 
+
+
+
+
+
+
 PSToExe (PowerShell to EXE Converter)
+
 A modern, high-performance graphical utility designed to bundle, compile, and deploy PowerShell scripts (.ps1) into standalone Windows executables (.exe). Built with a clean, centered interface, PSToExe bridges the gap between raw scripting and secure, seamless corporate software deployment.
 
 🚀 Key Features
